@@ -6,5 +6,5 @@ applications:
   instances: 1
   # Currently defaults to PWS
   domain: cfapps.io
-  path: target/spring-music-1.0.0.war
+  path: C:\Users\SID\Documents\CAPGEMINI\spring-music\spring-music\pre-built\spring.music.war
  
